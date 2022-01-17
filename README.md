@@ -5,6 +5,7 @@ The right two digits on the display will count seconds, and the left two will co
 Requires avrdude, avr-gcc and avr-libc.
 
 Pins (7-seg display -> Arduino):
+
 1 -> 32
 
 2 -> 31
