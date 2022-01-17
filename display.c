@@ -1,3 +1,9 @@
+/*
+ * Written By: Ethan Brown
+ * 
+ * Hardware: Arduino Mega 2560
+ *
+ */
 #include <avr/io.h>
 #include <stdbool.h>
 #include <util/delay.h>
