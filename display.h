@@ -1,3 +1,9 @@
+/*
+ * Written By: Ethan Brown
+ * 
+ * Hardware: Arduino Mega 2560
+ *
+ */
 #ifndef DISPLAY_DOT_H
 #define DISPLAY_DOT_H
 
